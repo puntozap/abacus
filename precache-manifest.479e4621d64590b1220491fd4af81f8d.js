@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6360f336226f7c5505d19854de38c869",
+    "revision": "657af7b67a85255213fbccfcd637a4e2",
     "url": "/abacus/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/abacus/static/css/2.c4dbf7c0.chunk.css"
   },
   {
-    "revision": "404297df1ef113b80a6a",
+    "revision": "c666bdb2ec517f99098a",
     "url": "/abacus/static/css/main.2c19e265.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/abacus/static/js/2.e5e097e8.chunk.js"
   },
   {
-    "revision": "404297df1ef113b80a6a",
-    "url": "/abacus/static/js/main.0e1e0570.chunk.js"
+    "revision": "c666bdb2ec517f99098a",
+    "url": "/abacus/static/js/main.4fcbd0f2.chunk.js"
   },
   {
     "revision": "04b3d69cfb9fa0ad0f1c",
